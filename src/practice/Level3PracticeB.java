@@ -22,7 +22,7 @@ public class Level3PracticeB {
 	 * So, if you're looking for "Apple" and you find "aPPlE", that's a match!
 	 * 
 	 * But because your teacher is cruel, you are forbidden from using equalsIgnoreCase
-	 * 
+	 *  
 	 */
 	
 	@Test
